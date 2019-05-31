@@ -13,4 +13,4 @@ We define recourse as the true/approximate distance of an individual from the de
 * Matplotlib (for plotting)
 
 ## Credits
-We thank Riberio etal. for [LIME](https://github.com/marcotcr/lime) and Ustun etal. for [Actionalble Recourse](https://github.com/ustunb/actionable-recourse).
+We thank Riberio et. al. for [LIME](https://github.com/marcotcr/lime) and Ustun et. al. for [Actionable Recourse](https://github.com/ustunb/actionable-recourse).
